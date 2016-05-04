@@ -1,1 +1,11 @@
 Ini file test masuk ke repository
+
+Menambahkan perubahan ini itu sesuai revisi
+
+perubahan rev 1.1
+lalalala
+lelelele
+
+lililili
+babababa
+
